@@ -4,7 +4,7 @@ This is a very simple example repository for getting started with a node.js impl
 
 ## Using This Repository
 
-After downloading this repository, you will need to install the necessary dependencies and run the environment setup with the following commands:
+After downloading this repository, you will need to install the necessary dependencies and run the  `index.js` file using `node`.
 
 ```
 yarn install
