@@ -4,6 +4,12 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@lit-protocol/lit-node-client": "^6.1.0"
+    "@lit-protocol/auth-helpers": "^6.2.0",
+    "@lit-protocol/constants": "^6.2.0",
+    "@lit-protocol/lit-auth-client": "^6.2.0",
+    "@lit-protocol/lit-node-client": "^6.2.0",
+    "@lit-protocol/pkp-ethers": "^6.2.0",
+    "ethers": "^6.13.1",
+    "siwe": "^2.3.2"
   }
 }
