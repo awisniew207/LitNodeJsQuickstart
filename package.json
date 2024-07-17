@@ -4,6 +4,8 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
-    "@lit-protocol/lit-node-client": "^6.1.0"
+    "@lit-protocol/auth-helpers": "^6.2.0",
+    "@lit-protocol/encryption": "^6.2.0",
+    "@lit-protocol/lit-node-client": "^6.2.0"
   }
 }
